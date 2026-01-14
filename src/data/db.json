@@ -1,0 +1,17 @@
+{
+    "trips" : [
+        {
+            "name" : "7 days trip to Kalaw",
+            "price" : 2000000
+        },
+         {
+            "name" : "7 days trip to Bagan",
+            "price" : 3000000
+        },
+         {
+            "name" : "7 days trip to Chaung Thar",
+            "price" : 4000000
+        }
+        
+    ]
+}
